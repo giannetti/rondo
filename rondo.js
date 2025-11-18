@@ -13,7 +13,7 @@ var overrideSource = spreadsheetID;
    true  -> Google Sheets (Visualization API)
    false -> Local Excel file (rondo.xlsx) using XLSX
 */
-var remote = false;
+var remote = true;
 
 var itemsTable;
 var openPage;
